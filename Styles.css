@@ -1,0 +1,28 @@
+body{
+    background-image: url(./52714.jpg);
+    display: flex;
+    justify-content: center;
+   margin-top: 20px;
+}
+
+.Formulario{
+   background-color: rgba(255, 255, 255, 0.9);
+   width: 550px;
+   height: 650px;
+   font-size: 25px;
+   font-family: 'Bebas Neue', cursive;
+    font-family: 'Quattrocento Sans', sans-serif;
+  border: 3px solid rgba(160, 160, 160, 0.2);
+  border-radius: 20px;
+  box-shadow: 4px 4px rgb(0, 0, 0);
+    color: rgb(27, 114, 165);
+}
+.contenedor{
+    margin-left: 20px;
+}
+br{
+    margin-top: 8%;
+}
+.enviar{
+    margin: 10% 40% 10% 40%; 
+}
